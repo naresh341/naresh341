@@ -57,9 +57,9 @@
 </div>
 
 ### 🏆 GitHub Trophies
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=naresh341&theme=darkhub&no-frame=true&row=1&column=7" />
-</div>
+</div> -->
 
 ### ✍️ Random Dev Quote
 <div align="center">
