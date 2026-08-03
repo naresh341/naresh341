@@ -45,8 +45,9 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.shion.dev/api/pin/?username=naresh341&repo=REPO_NAME_1&theme=dark&hide_border=false)](https://github.com/naresh341/REPO_NAME_1)
-[![Project 2](https://github-readme-stats.shion.dev/api/pin/?username=naresh341&repo=REPO_NAME_2&theme=dark&hide_border=false)](https://github.com/naresh341/REPO_NAME_2)
+[![AxiomFlow](https://github-readme-stats.vercel.app/api/pin/?username=naresh341&repo=AxiomFlow&theme=dark&hide_border=false)](https://github.com/naresh341/AxiomFlow)
+[![DPI_WEB](https://github-readme-stats.vercel.app/api/pin/?username=naresh341&repo=DPI_WEB&theme=dark&hide_border=false)](https://github.com/naresh341/DPI_WEB)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=naresh341&repo=Porfolio&theme=dark&hide_border=false)](https://github.com/naresh341/Porfolio)
 
 </div>
 
