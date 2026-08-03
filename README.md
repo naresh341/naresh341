@@ -66,10 +66,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=naresh341&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
+
 
 ---
 
