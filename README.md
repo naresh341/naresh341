@@ -14,14 +14,14 @@
 
 ## 💫 About Me
 
-
+```yaml
 🔭 Currently Working On: Projects at Tax-O-Smart using React 19, Next.js, and FastAPI
 🌱 Currently Learning:   AI & Machine Learning (pursuing MCA specialization)
 👯 Looking to Collaborate On: Full-stack web apps (React/Next.js + Python/FastAPI)
 💬 Ask Me About:        React, Next.js, TypeScript, Python, FastAPI, PostgreSQL
 ⚡ Fun Fact:             Mumbai-based dev who loves clean code and clean chai
 🌱 Location:             Mumbai, India
-
+```
 
 
 ## 💻 Tech Stack
