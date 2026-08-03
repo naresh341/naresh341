@@ -14,44 +14,15 @@
 
 ## 💫 About Me
 
-```yaml
+
 🔭 Currently Working On: Projects at Tax-O-Smart using React 19, Next.js, and FastAPI
 🌱 Currently Learning:   AI & Machine Learning (pursuing MCA specialization)
 👯 Looking to Collaborate On: Full-stack web apps (React/Next.js + Python/FastAPI)
 💬 Ask Me About:        React, Next.js, TypeScript, Python, FastAPI, PostgreSQL
 ⚡ Fun Fact:             Mumbai-based dev who loves clean code and clean chai
 🌱 Location:             Mumbai, India
-```
 
----
 
-## 🎓 Education
-
-| Degree | Institution | Status |
-|---|---|---|
-| MCA (AI & Machine Learning) | Lovely Professional University, Jalandhar | In progress (started 2025) |
-
-## 💼 Experience
-
-| Role | Company | Duration |
-|---|---|---|
-| Frontend / Full Stack Developer | Tax-O-Smart | Feb 2025 – Present |
-
----
-
-## 🚀 Featured Projects
-
-> _Add your top 3–4 repos here — I've left placeholders you can swap in._
-
-<div align="center">
-
-[![AxiomFlow](https://github-readme-stats.vercel.app/api/pin/?username=naresh341&repo=AxiomFlow&theme=dark&hide_border=false)](https://github.com/naresh341/AxiomFlow)
-[![DPI_WEB](https://github-readme-stats.vercel.app/api/pin/?username=naresh341&repo=DPI_WEB&theme=dark&hide_border=false)](https://github.com/naresh341/DPI_WEB)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=naresh341&repo=Porfolio&theme=dark&hide_border=false)](https://github.com/naresh341/Porfolio)
-
-</div>
-
----
 
 ## 💻 Tech Stack
 
